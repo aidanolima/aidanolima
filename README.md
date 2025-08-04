@@ -1,6 +1,6 @@
 <!-- Mini bio -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/56880200?v=4" alt="Aidano">
+  <img src="https://img.shields.io/badge/Áidano-orange?style=flat&logo=github&logoColor=ffffff&labelColor=000000" alt="Áidano">
 </p>
 
 <h1 align="center">Olá, sou Áidano Lima 👋</h1>
