@@ -1,16 +1,52 @@
-## Hi there 👋
+<!-- Mini bio -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/56880200?v=4" alt="Aidano">
+</p>
 
-<!--
-**aidanolima/aidanolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá, sou Áidano Lima 👋</h1>
+<p align="center">Bem-vindo(a) ao meu GitHub!</p>
 
-Here are some ideas to get you started:
+## 💫 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Profissional com mais de 20 anos de experiência em TI, com sólida atuação em empresas de grande porte nos setores público e privado 
+* Lider de projetos estratégicos de desenvolvimento de software, destaque para iniciativas em clientes como consultor técnico
+* Especialista em gestão de projetos, forte habilidade em promover a integração de fornecedores e equipes técnicas, como elo facilitador
+* Possuo perfil orientado a resultados, com visão sistêmica, foco em excelência operacional e compromisso com a entrega de valor ao negócio
+* Atualmente em processo de atualização contínua em tecnologia CLOUD, AWS, AZURE, GCP, infraestrutura de redes e programação frontend e backend
+
+## 💻 Competências Técnicas 
+
+### Linguagens de Programação
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=ffffff&labelColor=007396)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff&labelColor=6DB33F)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B&labelColor=3776AB)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff&labelColor=00599C)
+
+### Banco de Dados e Ferramentas 
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff&labelColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=ffffff&labelColor=CC2927)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff&labelColor=2496ED)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=ffffff&labelColor=7B42BC)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff&labelColor=F05032)
+
+### Serviços AWS
+
+<img src="https://img.shields.io/badge/☁️%20IAM-E7157B.svg?style=flat&logo=amazonaws&logoColor=white" alt="IAM" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20SQS-E7157B.svg?style=flat&logo=amazonaws&logoColor=white" alt="SQS" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20EventBridge-E7157B.svg?style=flat&logo=amazonaws&logoColor=white" alt="EventBridge" />
+<img src="https://img.shields.io/badge/☁️%20CloudFront-8C4FFF.svg?style=flat&logo=amazonaws&logoColor=white" alt="CloudFront" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20Route53-8C4FFF.svg?style=flat&logo=amazonaws&logoColor=white" alt="Route53" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20RDS-C925D1.svg?style=flat&logo=amazonaws&logoColor=white" alt="RDS" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20DynamoDB-0052CC.svg?style=flat&logo=amazonaws&logoColor=white" alt="DynamoDB" />&nbsp;
+
+<img src="https://img.shields.io/badge/☁️%20CodePipeline-0052CC.svg?style=flat&logo=amazonaws&logoColor=white" alt="CodePipeline" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20EC2-ED7100.svg?style=flat&logo=amazonaws&logoColor=white" alt="EC2" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20ECS-ED7100.svg?style=flat&logo=amazonaws&logoColor=white" alt="ECS" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20Lambda-ED7100.svg?style=flat&logo=amazonaws&logoColor=white" alt="Lambda" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20ElasticBeanstalk-ED7100.svg?style=flat&logo=amazonaws&logoColor=white" alt="ElasticBeanstalk" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20S3-569A31.svg?style=flat&logo=amazonaws&logoColor=white" alt="S3" />
