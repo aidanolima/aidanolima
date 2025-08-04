@@ -8,13 +8,24 @@
 
 ## 💫 Sobre mim
 
-* Profissional com mais de 20 anos de experiência em TI, com sólida atuação em empresas de grande porte nos setores público e privado 
+* Sólida atuação em empresas de grande porte nos setores público e privado, profissional com mais de 20 anos de experiência em TI 
 * Lider de projetos estratégicos de desenvolvimento de software, destaque para iniciativas em clientes como consultor técnico
 * Especialista em gestão de projetos, forte habilidade em promover a integração de fornecedores e equipes técnicas, como elo facilitador
 * Possuo perfil orientado a resultados, com visão sistêmica, foco em excelência operacional e compromisso com a entrega de valor ao negócio
-* Atualmente em processo de atualização contínua em tecnologia CLOUD, AWS, AZURE, GCP, infraestrutura de redes e programação frontend e backend
+* Atualmente em processo de atualização contínua tecnologica com enfase em CLOUD, AWS, AZURE, GCP, infraestrutura CLOUD 
 
 ## 💻 Competências Técnicas 
+
+### Full Stack
+
+  <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="height: 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" style="height: 30px;"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="height: 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" style="height: 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" style="height: 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" style="height: 30px;"/>
+ </p>
 
 ### Linguagens de Programação
 
