@@ -12,7 +12,7 @@
 * Lider de projetos estratégicos de desenvolvimento de software, destaque para iniciativas em clientes como consultor técnico
 * Especialista em gestão de projetos, forte habilidade em promover a integração de fornecedores e equipes técnicas, como elo facilitador
 * Possuo perfil orientado a resultados, com visão sistêmica, foco em excelência operacional e compromisso com a entrega de valor ao negócio
-* Atualmente em processo de atualização contínua tecnologica com enfase em CLOUD, AWS, AZURE, GCP, infraestrutura CLOUD 
+* Atualmente em processo de atualização contínua tecnológica com enfase em CLOUD, AWS, AZURE, GCP, infraestrutura CLOUD 
 
 ## 💻 Competências Técnicas 
 
