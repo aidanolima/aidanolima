@@ -8,11 +8,11 @@
 
 ## 💫 Sobre mim
 
+* Atualmente em processo de atualização contínua tecnológica com enfase em CLOUD, AWS, AZURE, GCP, infraestrutura CLOUD 
 * Sólida atuação em empresas de grande porte nos setores público e privado, profissional com mais de 20 anos de experiência em TI 
 * Lider de projetos estratégicos de desenvolvimento de software, destaque para iniciativas em clientes como consultor técnico
 * Especialista em gestão de projetos, forte habilidade em promover a integração de fornecedores e equipes técnicas, como elo facilitador
-* Possuo perfil orientado a resultados, com visão sistêmica, foco em excelência operacional e compromisso com a entrega de valor ao negócio
-* Atualmente em processo de atualização contínua tecnológica com enfase em CLOUD, AWS, AZURE, GCP, infraestrutura CLOUD 
+
 
 ## 💻 Competências Técnicas 
 
